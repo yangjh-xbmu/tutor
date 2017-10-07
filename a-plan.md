@@ -124,7 +124,6 @@
 1. 《[新闻学研究](http://mcr.nccu.edu.tw/)》 台湾政治大学主办。
 1. 《[传播与社会学刊](http://www.cschinese.com/index.php)》 香港中文大学中华传媒与比较传播研究中心主办。
 1. 《[中华传播学刊](http://cjc.nccu.edu.tw/index.asp)》 台湾地区传播学会会刊。
-\end{enumerate}
 
 #### 新闻学与传播学重要外文期刊
 
