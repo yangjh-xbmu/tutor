@@ -142,19 +142,19 @@
 
 在这个[地址](http://www.scimagojr.com/journalrank.php?category=3315)，可以查看到新闻传播学重要的外文期刊，主要以英文为主。
 
-2. [Journal of Communication](http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1460-2466) 传播学刊。影响因子3.843[^2]。
-3. [Journal of Computer-Mediated Communication](http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1083-6101) 计算机媒介传播学刊。影响因子：3.799。可免费获取全文。
+2. [Journal of Communication][joc]传播学刊。影响因子3.843[^2]。
+3. [Journal of Computer-Mediated Communication][jcmc]计算机媒介传播学刊。影响因子：3.799。可免费获取全文。
 4. [Research on Language and Social Interaction](http://www.tandfonline.com/loi/hrls20) 语言与社会交互研究。影响因子：2.897。
 5. [Public Opinion Quarterly](http://poq.oxfordjournals.org/) 公众舆论季刊。影响因子：2.799。部分内容可免费获取。
 6. [Communication Research](http://crx.sagepub.com/) 传播研究。影响因子：2.493。
 7. [Journal of Health Communication](http://www.tandfonline.com/loi/uhcm20) 健康传播杂志。影响因子：2.350。
 8. [Management Communication Quarterly](http://mcq.sagepub.com/) 管理传播季刊。影响因子：2.085。
-9. [New Media \& Society](http://nms.sagepub.com) 新媒体与社会。影响因子：2.007。
+9. [New Media & Society](http://nms.sagepub.com) 新媒体与社会。影响因子：2.007。
 10. [Political Communication](http://www.tandfonline.com/loi/upcp20) 政治传播。影响因子：2.000。
-11. [Communication Theory](http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1468-2885/) 传播理论。影响因子：1.991。
+11. [Communication Theory][ct]传播理论。影响因子：1.991。
 12. [Communication Monographs](http://www.tandfonline.com/loi/rcmm20) 传播论丛。影响因子：1.98。
 13. [Media Psychology](http://www.tandfonline.com/loi/hmep20) 传媒心理学。影响因子：1.920。
-14. [Human Communication Research](http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1468-2958) 人类传播研究。影响因子：1.905。可免费获取全文。
+14. [Human Communication Research][hcr] 人类传播研究。影响因子：1.905。可免费获取全文。
 15. [The International Journal of Press/Politics](http://hij.sagepub.com/) 国际新闻与政治。影响因子：1.872。
 16. [Journal of Social and Personal Relationships](http://spr.sagepub.com/) 社会与人际关系杂志。影响因子：1.826。
 17. [Public Understanding of Science](http://pus.sagepub.com/) 公众科学认识。影响因子：1.766。
@@ -165,10 +165,10 @@
 22. [Science Communication](http://scx.sagepub.com/) 科学传播。影响因子：1.517。
 23. [Interaction Studies](https://www.benjamins.com/#catalog/journals/is/main) 交互研究。影响因子：1.510。
 24. [International Journal of Public Opinion Research](http://ijpor.oxfordjournals.org/) 民意研究国际期刊。影响因子：1.462。
-25. [Personal Relationships](http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1475-6811) 人际关系。影响因子：1.366。
-26. [Journal of Broadcasting \& Electronic Media ](http://www.tandfonline.com/loi/hbem20/) 广播与电子媒体杂志。影响因子：1.352。
+25. [Personal Relationships][pr]  人际关系。影响因子：1.366。
+26. [Journal of Broadcasting & Electronic Media ](http://www.tandfonline.com/loi/hbem20/) 广播与电子媒体杂志。影响因子：1.352。
 27. [Journalism](http://jou.sagepub.com/) 新闻学。影响因子：1.287。
-28. [Information, Communication \& Society](http://www.tandfonline.com/loi/rics20) 信息、传播与社会。影响因子：1.283。
+28. [Information, Communication & Society](http://www.tandfonline.com/loi/rics20) 信息、传播与社会。影响因子：1.283。
 29. [Journal of Advertising](http://www.tandfonline.com/loi/ujoa20/) 广告杂志。影响因子：1.242。
 30. [Written Communication](http://wcx.sagepub.com/) 书面传播。影响因子：1.219。
 31. [Mass Communication and Society](http://www.tandfonline.com/loi/hmcs20) 大众传播与社会。影响因子：1.205。
@@ -181,9 +181,9 @@
 38. [Journalism Studies](http://www.tandfonline.com/loi/rjos20) 新闻学研究。影响因子：0.881。
 38. [TripleC](http://www.triple-c.at/index.php/tripleC/index) 传播、资本与批评。影响因子：0.82。
 39. [Environmental Communication](http://www.tandfonline.com/loi/renc20) 环境传播。影响因子：0.817。
-40. [Journalism \& Mass Communication Quarterly](http://jmq.sagepub.com/) 新闻学与大众传播季刊。影响因子：0.797。
+40. [Journalism & Mass Communication Quarterly](http://jmq.sagepub.com/) 新闻学与大众传播季刊。影响因子：0.797。
 41. [Technical Communication](http://www.ingentaconnect.com/content/stc/tc) 技术传播。影响因子：0.780。
-42. [Media, Culture \& Society](http://mcs.sagepub.com/) 媒体、文化与社会。影响因子：0.770。
+42. [Media, Culture & Society](http://mcs.sagepub.com/) 媒体、文化与社会。影响因子：0.770。
 43. [The IEEE Transactions on Professional Communication](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=47) IEEE专业传播汇刊。影响因子：0.758。
 44. [Convergence: The International Journal of Research into New Media Technologies](http://con.sagepub.com/) Convergence。影响因子：0.750。
 45. [Narrative Inquiry](https://www.benjamins.com/#catalog/journals/ni/main) 叙述探究。影响因子：0.718。
@@ -239,3 +239,9 @@
 
 [^1]: 综合影响因子按被评价期刊前两年发表的可被引文献在统计年的被引用总次数与该期刊在前两年内发表的可被引文献总量之比，以科技类期刊及人文社会科学类期刊综合统计源文献计算。
 [^2]: 数据来源：汤森路透 2015 Journal Citation Reports，5年影响因子。
+
+[joc]: http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1460-2466
+[jcmc]: http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1083-6101
+[ct]: http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1468-2885/
+[hcr]: http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1468-2958
+[pr]: http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1475-6811
