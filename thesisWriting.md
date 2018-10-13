@@ -8,10 +8,10 @@
 
 一个好的研究选题通常是从对现实问题的兴趣中产生的。研究者必须要善于提出疑问，有好奇心，并且善于学习和发现。事实上，我们可以从很多地方找到研究兴趣：
 
-11. 工作经历
-12. 专家的建议
-13. 学术期刊
-14. 媒体
+1. 工作经历
+2. 专家的建议
+3. 学术期刊
+4. 媒体
 
 一般而言，初次进行研究的人员往往喜欢宏大的论文题目，但没人能在一两年时间内掌握宏大主题所要涉及的数量众多的一手和二手资料。论文题目的聚焦范围必须和你的时间、能力相匹配。
 
@@ -32,11 +32,35 @@
 
 ### 文献查询
 
-随着互联网在学术领域的渗透，涌现出一些优秀好用的综合学术搜索引擎，比如：[谷歌学术](http://scholar.google.com)、[SemanticScholar](https://www.semanticscholar.org/)、[百度学术](http://xueshu.baidu.com)。借助于这些搜索引擎，研究人员可以快速发现某个研究领域中的主要研究成果和研究人员。
+随着互联网在学术领域的渗透，涌现出一些优秀好用的综合学术搜索引擎，比如：
+
+1. [谷歌学术](http://scholar.google.com)
+2. [SemanticScholar](https://www.semanticscholar.org/)
+3. [百度学术](http://xueshu.baidu.com)。
+
+#### 谷歌学术使用技巧
+
+除了在搜索框直接键入关键词搜索外，还可以使用如下命令：
+
+1. `author:xxx` 搜索xxx作者
+2. `label:xxx` 搜索某主题的主要作者
+
+借助于这些搜索引擎，研究人员可以快速发现某个研究领域中的主要研究成果和研究人员。
 
 除综合性学术搜索引擎之外，还有一些专门的数据库，比如：
 
-[中国知网](http://www.cnki.net)、[台湾学术文献数据库](http://www.airitilibrary.cn/)、[万方数据](http://www.wanfangdata.com.cn/)、[维普网](http://www.cqvip.com/)、[SAGE journals](http://online.sagepub.com/)、[Willy Online Library](http://onlinelibrary.wiley.com/)、[EBSCO](https://www.ebscohost.com/)、[Taylor & Francis Online](http://www.tandfonline.com/)、[ScienceDirect](http://www.sciencedirect.com/)、[牛津大学出版社](http://www.oxfordjournals.org/)等等。其他学术数据库和学术搜索引擎可参照[维基百科上的列表](https://en.wikipedia.org/wiki/List_of_academic_databases_and_search_engines)。
+1. [中国知网](http://www.cnki.net)
+2. [台湾学术文献数据库](http://www.airitilibrary.cn/)
+3. [万方数据](http://www.wanfangdata.com.cn/)
+4. [维普网](http://www.cqvip.com/)
+5. [SAGE journals](http://online.sagepub.com/)
+6. [Willy Online Library](http://onlinelibrary.wiley.com/)
+7. [EBSCO](https://www.ebscohost.com/)
+8. [Taylor & Francis Online](http://www.tandfonline.com/)
+9. [ScienceDirect](http://www.sciencedirect.com/)
+10. [牛津大学出版社](http://www.oxfordjournals.org/)等等。
+
+其他学术数据库和学术搜索引擎可参照[维基百科上的列表](https://en.wikipedia.org/wiki/List_of_academic_databases_and_search_engines)。
 
 图书应优先在学校图书馆查找，学校图书馆没有收藏的英文书籍可到[BookFinder](http://www.bookfinder.com)、[谷歌图书](http://book.google.com)查找。图书馆没有的中文书籍，可借助于类似与[新浪微盘](http://vdisk.weibo.com/)这样的社会化文件分享工具进行搜寻。最后，还应该利用好[国家图书馆](http://opac.nlc.cn/F/)这一优质资源。
 
