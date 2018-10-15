@@ -47,6 +47,7 @@
 1. 《社会学》  约翰.J.麦休尼斯
 1. 《心理学》 戴维·迈尔斯
 1. 《社会心理学》 戴维·迈尔斯
+1. 《西奥迪尼社会心理学》 罗伯特·西奥迪尼
 1. 《民族学原理》 徐黎丽
 
 ### 经典著作
@@ -106,7 +107,6 @@
 1. 《文化对话:跨文化传播导论》 迈克尔·H.普罗瑟
 1. 《媒介建构:流行文化中的大众媒介》 劳伦斯·格罗斯伯格、艾伦·渥泰拉
 
-
 ## 敏锐的研究触角
 
 有了研究方法、有了扎实的专业基础知识，并不能让我们成为研究人员中的佼佼者，我们还要有敏锐的研究触角，以便了解学术共同体的学术兴趣与发展趋势。为锻炼这方面的能力，提高学术品味，建议从以下几个方面入手：
@@ -141,91 +141,89 @@
 #### 新闻学与传播学重要外文期刊
 
 在这个[地址](http://www.scimagojr.com/journalrank.php?category=3315)，可以查看到新闻传播学重要的外文期刊，主要以英文为主。
-
-2. [Journal of Communication][joc]传播学刊。影响因子3.843[^2]。
-3. [Journal of Computer-Mediated Communication][jcmc]计算机媒介传播学刊。影响因子：3.799。可免费获取全文。
-4. [Research on Language and Social Interaction](http://www.tandfonline.com/loi/hrls20) 语言与社会交互研究。影响因子：2.897。
-5. [Public Opinion Quarterly](http://poq.oxfordjournals.org/) 公众舆论季刊。影响因子：2.799。部分内容可免费获取。
-6. [Communication Research](http://crx.sagepub.com/) 传播研究。影响因子：2.493。
-7. [Journal of Health Communication](http://www.tandfonline.com/loi/uhcm20) 健康传播杂志。影响因子：2.350。
-8. [Management Communication Quarterly](http://mcq.sagepub.com/) 管理传播季刊。影响因子：2.085。
-9. [New Media & Society](http://nms.sagepub.com) 新媒体与社会。影响因子：2.007。
-10. [Political Communication](http://www.tandfonline.com/loi/upcp20) 政治传播。影响因子：2.000。
-11. [Communication Theory][ct]传播理论。影响因子：1.991。
-12. [Communication Monographs](http://www.tandfonline.com/loi/rcmm20) 传播论丛。影响因子：1.98。
-13. [Media Psychology](http://www.tandfonline.com/loi/hmep20) 传媒心理学。影响因子：1.920。
-14. [Human Communication Research][hcr] 人类传播研究。影响因子：1.905。可免费获取全文。
-15. [The International Journal of Press/Politics](http://hij.sagepub.com/) 国际新闻与政治。影响因子：1.872。
-16. [Journal of Social and Personal Relationships](http://spr.sagepub.com/) 社会与人际关系杂志。影响因子：1.826。
-17. [Public Understanding of Science](http://pus.sagepub.com/) 公众科学认识。影响因子：1.766。
-18. [Health Communication](http://www.tandfonline.com/loi/hhth20) 健康传播。影响因子：1.686。
-19. [Telecommunications Policy](http://www.sciencedirect.com/science/journal/03085961) 电讯政策。SCI、SSCI期刊。影响因子：1.685。可免费获取全文。
-20. [Discourse Studies](http://dis.sagepub.com/) 话语研究。影响因子：1.603。
-21. [Journal of Advertising Research](http://www.journalofadvertisingresearch.com/) 广告研究。影响因子：1.580。可免费获取全文。
-22. [Science Communication](http://scx.sagepub.com/) 科学传播。影响因子：1.517。
-23. [Interaction Studies](https://www.benjamins.com/#catalog/journals/is/main) 交互研究。影响因子：1.510。
-24. [International Journal of Public Opinion Research](http://ijpor.oxfordjournals.org/) 民意研究国际期刊。影响因子：1.462。
-25. [Personal Relationships][pr]  人际关系。影响因子：1.366。
-26. [Journal of Broadcasting & Electronic Media ](http://www.tandfonline.com/loi/hbem20/) 广播与电子媒体杂志。影响因子：1.352。
-27. [Journalism](http://jou.sagepub.com/) 新闻学。影响因子：1.287。
-28. [Information, Communication & Society](http://www.tandfonline.com/loi/rics20) 信息、传播与社会。影响因子：1.283。
-29. [Journal of Advertising](http://www.tandfonline.com/loi/ujoa20/) 广告杂志。影响因子：1.242。
-30. [Written Communication](http://wcx.sagepub.com/) 书面传播。影响因子：1.219。
-31. [Mass Communication and Society](http://www.tandfonline.com/loi/hmcs20) 大众传播与社会。影响因子：1.205。
-32. [Public Relations Review](http://www.sciencedirect.com/science/journal/03638111) 公共关系评论。影响因子：1.179。可免费获取全文。
-33. [International Journal of Advertising](http://www.tandfonline.com/loi/rina20) 国际广告。影响因子：1.094。
-34. [European Journal of Communication](http://ejc.sagepub.com/) 欧洲传播。影响因子：1.088。
-35. [Journal of Language and Social Psychology](http://jls.sagepub.com/) 语言与社会心理学杂志。影响因子：1.020。
-36. [Journal of Applied Communication Research ](http://journalofappliedcommunications.org/) 应用传播研究。影响因子：0.940。可免费获取全文。
-37. [Journal of Media Psychology](http://econtent.hogrefe.com/loi/zmp) 传媒心理学杂志。影响因子：0.882。
-38. [Journalism Studies](http://www.tandfonline.com/loi/rjos20) 新闻学研究。影响因子：0.881。
-38. [TripleC](http://www.triple-c.at/index.php/tripleC/index) 传播、资本与批评。影响因子：0.82。
-39. [Environmental Communication](http://www.tandfonline.com/loi/renc20) 环境传播。影响因子：0.817。
-40. [Journalism & Mass Communication Quarterly](http://jmq.sagepub.com/) 新闻学与大众传播季刊。影响因子：0.797。
-41. [Technical Communication](http://www.ingentaconnect.com/content/stc/tc) 技术传播。影响因子：0.780。
-42. [Media, Culture & Society](http://mcs.sagepub.com/) 媒体、文化与社会。影响因子：0.770。
-43. [The IEEE Transactions on Professional Communication](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=47) IEEE专业传播汇刊。影响因子：0.758。
-44. [Convergence: The International Journal of Research into New Media Technologies](http://con.sagepub.com/) Convergence。影响因子：0.750。
-45. [Narrative Inquiry](https://www.benjamins.com/#catalog/journals/ni/main) 叙述探究。影响因子：0.718。
-46. [Discourse & Communication](http://dcm.sagepub.com/) 话语与传播。影响因子：0.711。
-47. [Discourse & Society](http://intl-das.sagepub.com/) 话语与社会。影响因子：0.710。
-48. [Critical Studies in Media Communication](http://www.tandfonline.com/loi/rcsm20) 媒体传播批判研究。影响因子：0.675。
-49. [Language & Communication](http://www.sciencedirect.com/science/journal/aip/02715309) 语言学与传播学。影响因子：0.658。可免费获取全文。
-50. [Asian Journal Of Communication](http://www.tandfonline.com/toc/rajc20/current) 亚洲传播。影响因子：0.637。
-51. [International Journal of Conflict Management](http://www.emeraldinsight.com/journal/ijcma) 冲突管理国际杂志。影响因子：0.631。
-52. [Text and Talk]() 文本与交谈。影响因子：0.622。
-53. [Journal of Public Relations Research](http://www.tandfonline.com/loi/hprr20) 公共关系研究杂志。影响因子：0.556。
-54. [Television & New Media](http://tvn.sagepub.com/) 电视与新媒体。影响因子：0.554。
-55. [Critical Discourse Studies](http://www.tandfonline.com/toc/rcds20/current) 批判性话语研究。影响因子：0.547。
-56. [Quarterly Journal of Speech](http://www.tandfonline.com/loi/rqjs20) 演说季刊。影响因子：0.520。
-57. [Journal of Media Ethics](http://www.tandfonline.com/loi/hmme20) 大众媒介伦理学杂志。影响因子：0.454。
-58. [Continuum: Journal of Media & Cultural Studies](http://www.tandfonline.com/toc/ccon20/current) 媒体与文化研究。影响因子：0.438。
-59. [Journal of Business and Technical Communication](http://jbt.sagepub.com/) 商业与技术传播。影响因子：0.438。
-60. [Journal of Media Economics](http://www.tandfonline.com/loi/hmec20) 传媒经济学杂志。影响因子：0.417。
-61. [Games and Culture](http://gac.sagepub.com/) 游戏与文化。影响因子：0.390。
-62. [Visual Communication](http://vcj.sagepub.com/) 视觉传播。影响因子：0.372。
-63. [Rhetoric Society Quarterly](http://www.tandfonline.com/toc/rrsq20/current) 修辞学会季刊。影响因子：0.364。
-64. [Chinese Journal of Communication](http://www.tandfonline.com/toc/rcjc20/current) 中国传播。影响因子：0.362。
-65. [International Journal of Communication](http://ijoc.org/) 传播学国际杂志。影响因子：0.350。可免费下载全文。
-66. [Social Semiotics](http://www.tandfonline.com/loi/csos20) 社会符号学。影响因子：0.333。
-67. [Media International Australia](http://www.uq.edu.au/mia/) 澳大利亚国际媒体。影响因子：0.246。
-68. [Journalism Practice](http://www.tandfonline.com/loi/rjop20#.Vp4CjFUrLIU) 新闻实践。影响因子：0.000。
-69. [Communicationand Critical-Cultural Studies](http://www.tandfonline.com/loi/rccc20) 传播与批判/文化研究。影响因子：0.000。
-
+1. [Journal of Communication][joc]传播学刊。影响因子3.843[^2]。
+1. [Journal of Computer-Mediated Communication][jcmc]计算机媒介传播学刊。影响因子：3.799。可免费获取全文。
+1. [Research on Language and Social Interaction](http://www.tandfonline.com/loi/hrls20) 语言与社会交互研究。影响因子：2.897。
+1. [Public Opinion Quarterly](http://poq.oxfordjournals.org/) 公众舆论季刊。影响因子：2.799。部分内容可免费获取。
+1. [Communication Research](http://crx.sagepub.com/) 传播研究。影响因子：2.493。
+1. [Journal of Health Communication](http://www.tandfonline.com/loi/uhcm20) 健康传播杂志。影响因子：2.350。
+1. [Management Communication Quarterly](http://mcq.sagepub.com/) 管理传播季刊。影响因子：2.085。
+1. [New Media & Society](http://nms.sagepub.com) 新媒体与社会。影响因子：2.007。
+1. [Political Communication](http://www.tandfonline.com/loi/upcp20) 政治传播。影响因子：2.000。
+1. [Communication Theory][ct]传播理论。影响因子：1.991。
+1. [Communication Monographs](http://www.tandfonline.com/loi/rcmm20) 传播论丛。影响因子：1.98。
+1. [Media Psychology](http://www.tandfonline.com/loi/hmep20) 传媒心理学。影响因子：1.920。
+1. [Human Communication Research][hcr] 人类传播研究。影响因子：1.905。可免费获取全文。
+1. [The International Journal of Press/Politics](http://hij.sagepub.com/) 国际新闻与政治。影响因子：1.872。
+1. [Journal of Social and Personal Relationships](http://spr.sagepub.com/) 社会与人际关系杂志。影响因子：1.826。
+1. [Public Understanding of Science](http://pus.sagepub.com/) 公众科学认识。影响因子：1.766。
+1. [Health Communication](http://www.tandfonline.com/loi/hhth20) 健康传播。影响因子：1.686。
+1. [Telecommunications Policy](http://www.sciencedirect.com/science/journal/03085961) 电讯政策。SCI、SSCI期刊。影响因子：1.685。可免费获取全文。
+1. [Discourse Studies](http://dis.sagepub.com/) 话语研究。影响因子：1.603。
+1. [Journal of Advertising Research](http://www.journalofadvertisingresearch.com/) 广告研究。影响因子：1.580。可免费获取全文。
+1. [Science Communication](http://scx.sagepub.com/) 科学传播。影响因子：1.517。
+1. [Interaction Studies](https://www.benjamins.com/#catalog/journals/is/main) 交互研究。影响因子：1.510。
+1. [International Journal of Public Opinion Research](http://ijpor.oxfordjournals.org/) 民意研究国际期刊。影响因子：1.462。
+1. [Personal Relationships][pr]  人际关系。影响因子：1.366。
+1. [Journal of Broadcasting & Electronic Media ](http://www.tandfonline.com/loi/hbem20/) 广播与电子媒体杂志。影响因子：1.352。
+1. [Journalism](http://jou.sagepub.com/) 新闻学。影响因子：1.287。
+1. [Information, Communication & Society](http://www.tandfonline.com/loi/rics20) 信息、传播与社会。影响因子：1.283。
+1. [Journal of Advertising](http://www.tandfonline.com/loi/ujoa20/) 广告杂志。影响因子：1.242。
+1. [Written Communication](http://wcx.sagepub.com/) 书面传播。影响因子：1.219。
+1. [Mass Communication and Society](http://www.tandfonline.com/loi/hmcs20) 大众传播与社会。影响因子：1.205。
+1. [Public Relations Review](http://www.sciencedirect.com/science/journal/03638111) 公共关系评论。影响因子：1.179。可免费获取全文。
+1. [International Journal of Advertising](http://www.tandfonline.com/loi/rina20) 国际广告。影响因子：1.094。
+1. [European Journal of Communication](http://ejc.sagepub.com/) 欧洲传播。影响因子：1.088。
+1. [Journal of Language and Social Psychology](http://jls.sagepub.com/) 语言与社会心理学杂志。影响因子：1.020。
+1. [Journal of Applied Communication Research ](http://journalofappliedcommunications.org/) 应用传播研究。影响因子：0.940。可免费获取全文。
+1. [Journal of Media Psychology](http://econtent.hogrefe.com/loi/zmp) 传媒心理学杂志。影响因子：0.882。
+1. [Journalism Studies](http://www.tandfonline.com/loi/rjos20) 新闻学研究。影响因子：0.881。
+1. [TripleC](http://www.triple-c.at/index.php/tripleC/index) 传播、资本与批评。影响因子：0.82。
+1. [Environmental Communication](http://www.tandfonline.com/loi/renc20) 环境传播。影响因子：0.817。
+1. [Journalism & Mass Communication Quarterly](http://jmq.sagepub.com/) 新闻学与大众传播季刊。影响因子：0.797。
+1. [Technical Communication](http://www.ingentaconnect.com/content/stc/tc) 技术传播。影响因子：0.780。
+1. [Media, Culture & Society](http://mcs.sagepub.com/) 媒体、文化与社会。影响因子：0.770。
+1. [The IEEE Transactions on Professional Communication](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=47) IEEE专业传播汇刊。影响因子：0.758。
+1. [Convergence: The International Journal of Research into New Media Technologies](http://con.sagepub.com/) Convergence。影响因子：0.750。
+1. [Narrative Inquiry](https://www.benjamins.com/#catalog/journals/ni/main) 叙述探究。影响因子：0.718。
+1. [Discourse & Communication](http://dcm.sagepub.com/) 话语与传播。影响因子：0.711。
+1. [Discourse & Society](http://intl-das.sagepub.com/) 话语与社会。影响因子：0.710。
+1. [Critical Studies in Media Communication](http://www.tandfonline.com/loi/rcsm20) 媒体传播批判研究。影响因子：0.675。
+1. [Language & Communication](http://www.sciencedirect.com/science/journal/aip/02715309) 语言学与传播学。影响因子：0.658。可免费获取全文。
+1. [Asian Journal Of Communication](http://www.tandfonline.com/toc/rajc20/current) 亚洲传播。影响因子：0.637。
+1. [International Journal of Conflict Management](http://www.emeraldinsight.com/journal/ijcma) 冲突管理国际杂志。影响因子：0.631。
+1. [Text and Talk]() 文本与交谈。影响因子：0.622。
+1. [Journal of Public Relations Research](http://www.tandfonline.com/loi/hprr20) 公共关系研究杂志。影响因子：0.556。
+1. [Television & New Media](http://tvn.sagepub.com/) 电视与新媒体。影响因子：0.554。
+1. [Critical Discourse Studies](http://www.tandfonline.com/toc/rcds20/current) 批判性话语研究。影响因子：0.547。
+1. [Quarterly Journal of Speech](http://www.tandfonline.com/loi/rqjs20) 演说季刊。影响因子：0.520。
+1. [Journal of Media Ethics](http://www.tandfonline.com/loi/hmme20) 大众媒介伦理学杂志。影响因子：0.454。
+1. [Continuum: Journal of Media & Cultural Studies](http://www.tandfonline.com/toc/ccon20/current) 媒体与文化研究。影响因子：0.438。
+1. [Journal of Business and Technical Communication](http://jbt.sagepub.com/) 商业与技术传播。影响因子：0.438。
+1. [Journal of Media Economics](http://www.tandfonline.com/loi/hmec20) 传媒经济学杂志。影响因子：0.417。
+1. [Games and Culture](http://gac.sagepub.com/) 游戏与文化。影响因子：0.390。
+1. [Visual Communication](http://vcj.sagepub.com/) 视觉传播。影响因子：0.372。
+1. [Rhetoric Society Quarterly](http://www.tandfonline.com/toc/rrsq20/current) 修辞学会季刊。影响因子：0.364。
+1. [Chinese Journal of Communication](http://www.tandfonline.com/toc/rcjc20/current) 中国传播。影响因子：0.362。
+1. [International Journal of Communication](http://ijoc.org/) 传播学国际杂志。影响因子：0.350。可免费下载全文。
+1. [Social Semiotics](http://www.tandfonline.com/loi/csos20) 社会符号学。影响因子：0.333。
+1. [Media International Australia](http://www.uq.edu.au/mia/) 澳大利亚国际媒体。影响因子：0.246。
+1. [Journalism Practice](http://www.tandfonline.com/loi/rjop20#.Vp4CjFUrLIU) 新闻实践。影响因子：0.000。
+1. [Communicationand Critical-Cultural Studies](http://www.tandfonline.com/loi/rccc20) 传播与批判/文化研究。影响因子：0.000。
 
 #### 其他相关学科的重要期刊
 
 除了本学科期刊外，非常有必要阅读相关学科的期刊，尤其是聚焦于我国现实问题的高水平期刊。
 
 1. 《[中国社会科学](http://sscp.cssn.cn/zgshkx/)》 中国社会科学院主办，被誉为中国最高水平的综合类人文社会科学期刊。综合影响因子：4.489。
-2. 《[社会学研究](http://www.shxyj.org/)》 中国社会科学院社会学研究所主办。综合影响因子：3.183。
-3. 《[公共管理学报](http://mall.cnki.net/magazine/magalist/GGGL.htm)》 哈尔滨工业大学管理学院主办。综合影响因子：2.038。
-4. 《[改革](http://www.reform.net.cn/book_item.php?book=7)》 重庆社会科学院主办，综合影响因子1.896。
-4. 《[开放时代](http://www.opentimes.cn/)》 广州市社会科学院院刊，由广州市社会科学院主管、主办，由开放时代杂志社编辑出版。综合影响因子：1.804。
-5. 《[心理学报](http://118.145.16.229:81/Jweb_xlxb/)》 中国心理学会、中国社会科学院心理研究所主办。综合影响因子：1.793。
-2. 《[中国行政管理](http://www.cpaj.com.cn/index.shtml)》 国务院办公厅主管，中国行政管理学会主办，综合影响因子1.377。
-6. 《[管理学报](http://glxb.hust.edu.cn/CN/volumn/current.shtml)》 华中科技大学主办。综合影响因子：0.885。
-7. 《[政治学研究](http://www.zzxyjzz.cn/)》 中国社会科学院政治学研究所主办。综合影响因子：0.702。
+1. 《[社会学研究](http://www.shxyj.org/)》 中国社会科学院社会学研究所主办。综合影响因子：3.183。
+1. 《[公共管理学报](http://mall.cnki.net/magazine/magalist/GGGL.htm)》 哈尔滨工业大学管理学院主办。综合影响因子：2.038。
+1. 《[改革](http://www.reform.net.cn/book_item.php?book=7)》 重庆社会科学院主办，综合影响因子1.896。
+1. 《[开放时代](http://www.opentimes.cn/)》 广州市社会科学院院刊，由广州市社会科学院主管、主办，由开放时代杂志社编辑出版。综合影响因子：1.804。
+1. 《[心理学报](http://118.145.16.229:81/Jweb_xlxb/)》 中国心理学会、中国社会科学院心理研究所主办。综合影响因子：1.793。
+1. 《[中国行政管理](http://www.cpaj.com.cn/index.shtml)》 国务院办公厅主管，中国行政管理学会主办，综合影响因子1.377。
+1. 《[管理学报](http://glxb.hust.edu.cn/CN/volumn/current.shtml)》 华中科技大学主办。综合影响因子：0.885。
+1. 《[政治学研究](http://www.zzxyjzz.cn/)》 中国社会科学院政治学研究所主办。综合影响因子：0.702。
 
 ### 阅读相关媒体报道
 
