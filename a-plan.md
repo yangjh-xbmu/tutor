@@ -142,6 +142,7 @@
 #### 新闻学与传播学重要外文期刊
 
 在这个[地址](http://www.scimagojr.com/journalrank.php?category=3315)，可以查看到新闻传播学重要的外文期刊，主要以英文为主。
+
 1. [Journal of Communication][joc]传播学刊。影响因子3.843[^2]。
 1. [Journal of Computer-Mediated Communication][jcmc]计算机媒介传播学刊。影响因子：3.799。可免费获取全文。
 1. [Research on Language and Social Interaction](http://www.tandfonline.com/loi/hrls20) 语言与社会交互研究。影响因子：2.897。
@@ -166,7 +167,7 @@
 1. [Interaction Studies](https://www.benjamins.com/#catalog/journals/is/main) 交互研究。影响因子：1.510。
 1. [International Journal of Public Opinion Research](http://ijpor.oxfordjournals.org/) 民意研究国际期刊。影响因子：1.462。
 1. [Personal Relationships][pr]  人际关系。影响因子：1.366。
-1. [Journal of Broadcasting & Electronic Media ](http://www.tandfonline.com/loi/hbem20/) 广播与电子媒体杂志。影响因子：1.352。
+1. [Journal of Broadcasting & Electronic Media](http://www.tandfonline.com/loi/hbem20/) 广播与电子媒体杂志。影响因子：1.352。
 1. [Journalism](http://jou.sagepub.com/) 新闻学。影响因子：1.287。
 1. [Information, Communication & Society](http://www.tandfonline.com/loi/rics20) 信息、传播与社会。影响因子：1.283。
 1. [Journal of Advertising](http://www.tandfonline.com/loi/ujoa20/) 广告杂志。影响因子：1.242。
@@ -176,7 +177,7 @@
 1. [International Journal of Advertising](http://www.tandfonline.com/loi/rina20) 国际广告。影响因子：1.094。
 1. [European Journal of Communication](http://ejc.sagepub.com/) 欧洲传播。影响因子：1.088。
 1. [Journal of Language and Social Psychology](http://jls.sagepub.com/) 语言与社会心理学杂志。影响因子：1.020。
-1. [Journal of Applied Communication Research ](http://journalofappliedcommunications.org/) 应用传播研究。影响因子：0.940。可免费获取全文。
+1. [Journal of Applied Communication Research](http://journalofappliedcommunications.org/) 应用传播研究。影响因子：0.940。可免费获取全文。
 1. [Journal of Media Psychology](http://econtent.hogrefe.com/loi/zmp) 传媒心理学杂志。影响因子：0.882。
 1. [Journalism Studies](http://www.tandfonline.com/loi/rjos20) 新闻学研究。影响因子：0.881。
 1. [TripleC](http://www.triple-c.at/index.php/tripleC/index) 传播、资本与批评。影响因子：0.82。
@@ -193,7 +194,7 @@
 1. [Language & Communication](http://www.sciencedirect.com/science/journal/aip/02715309) 语言学与传播学。影响因子：0.658。可免费获取全文。
 1. [Asian Journal Of Communication](http://www.tandfonline.com/toc/rajc20/current) 亚洲传播。影响因子：0.637。
 1. [International Journal of Conflict Management](http://www.emeraldinsight.com/journal/ijcma) 冲突管理国际杂志。影响因子：0.631。
-1. [Text and Talk]() 文本与交谈。影响因子：0.622。
+1. Text and Talk 文本与交谈。影响因子：0.622。
 1. [Journal of Public Relations Research](http://www.tandfonline.com/loi/hprr20) 公共关系研究杂志。影响因子：0.556。
 1. [Television & New Media](http://tvn.sagepub.com/) 电视与新媒体。影响因子：0.554。
 1. [Critical Discourse Studies](http://www.tandfonline.com/toc/rcds20/current) 批判性话语研究。影响因子：0.547。
