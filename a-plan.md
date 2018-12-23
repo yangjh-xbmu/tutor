@@ -134,7 +134,7 @@
 1. 《[现代出版](http://mall.cnki.net/magazine/magalist/DXCB.htm)》 中国大学出版社协会等单位主办。综合影响因子：0.285。
 1. 《[中国编辑](http://mall.cnki.net/magazine/magalist/BJZG.htm)》 中国编辑学会、高等教育出版社主办。综合影响因子：0.273。
 1. 《[传播学报](http://www.sju.cnki.net/sju/navi/issue.aspx?pykm=CABO)》 中国知网出版的第一本传播学专业网络期刊。它由17家综合性大学学报提供稿源，与其纸质版学报同时出版。
-1. 《[潮](http://vdisk.weibo.com/s/t7gQbhuwTkN2)》 天津师范大学国际传播研究中心主办，2014年10月创刊，主编团队由教育部长江学者魏然博士领衔，是最具国际化视野的学术刊物。
+1. 《[潮](http://vdisk.weibo.com/s/t7gQbhuwTkN2)》 天津师范大学国际传播研究中心主办，2014年10月创刊，主编团队由教育部长江学者魏然博士领衔。
 1. 《[新闻学研究](http://mcr.nccu.edu.tw/)》 台湾政治大学主办。
 1. 《[传播与社会学刊](http://www.cschinese.com/index.php)》 香港中文大学中华传媒与比较传播研究中心主办。
 1. 《[中华传播学刊](http://cjc.nccu.edu.tw/index.asp)》 台湾地区传播学会会刊。
@@ -206,7 +206,7 @@
 1. [Games and Culture](http://gac.sagepub.com/) 游戏与文化。影响因子：0.390。
 1. [Visual Communication](http://vcj.sagepub.com/) 视觉传播。影响因子：0.372。
 1. [Rhetoric Society Quarterly](http://www.tandfonline.com/toc/rrsq20/current) 修辞学会季刊。影响因子：0.364。
-1. [Chinese Journal of Communication](http://www.tandfonline.com/toc/rcjc20/current) 中国传播。影响因子：0.362。
+1. [Chinese Journal of Communication](http://www.tandfonline.com/toc/rcjc20/current) 中国传播。影响因子：0.362。香港中文大学主办。
 1. [International Journal of Communication](http://ijoc.org/) 传播学国际杂志。影响因子：0.350。可免费下载全文。
 1. [Social Semiotics](http://www.tandfonline.com/loi/csos20) 社会符号学。影响因子：0.333。
 1. [Media International Australia](http://www.uq.edu.au/mia/) 澳大利亚国际媒体。影响因子：0.246。
@@ -226,6 +226,9 @@
 1. 《[中国行政管理](http://www.cpaj.com.cn/index.shtml)》 国务院办公厅主管，中国行政管理学会主办，综合影响因子1.377。
 1. 《[管理学报](http://glxb.hust.edu.cn/CN/volumn/current.shtml)》 华中科技大学主办。综合影响因子：0.885。
 1. 《[政治学研究](http://www.zzxyjzz.cn/)》 中国社会科学院政治学研究所主办。综合影响因子：0.702。
+1. 《南京社会科学》
+1. 《社会科学战线》
+1. 《西南民族大学学报（社会科学版）》
 
 ### 阅读相关媒体报道
 
