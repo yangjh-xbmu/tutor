@@ -1,10 +1,8 @@
 {
     "title": "给研究生的建议",
     "author": "yangjh",
-    "links":
-    {
-        "sidebar":
-        {
+    "links": {
+        "sidebar": {
             "Home": "http://yangzh.cn"
         }
     },
@@ -12,26 +10,26 @@
     "plugins": [
         "-sharing",
         "sharing-plus",
-        "localized-footer",
         "include-codeblock",
         "ace",
-        "quiz",
         "-lunr",
         "-search",
         "search-pro",
         "collapsible-menu",
         "bibtex-indexed-cite",
-        "-livereload"
+        "-livereload",
+        "prism",
+        "-highlight",
+        "katex-gf",
+        "url-embed",
+        "page-footer-ex"
     ],
 
-    "pluginsConfig":
-    {
-        "theme-default":
-        {
+    "pluginsConfig": {
+        "theme-default": {
             "showLevel": true
         },
-        "sharing":
-        {
+        "sharing": {
             "douban": false,
             "facebook": false,
             "google": false,
@@ -56,43 +54,25 @@
             ]
         },
 
-        "localized-footer":
-        {
-            "hline": true,
-            "filename": "./FOOTER.md"
-        },
-
-        "include-codeblock":
-        {
+        "include-codeblock": {
             "template": "ace",
             "unindent": true,
             "edit": false
         },
 
-        "quiz":
-        {
-            "labels":
-            {
-                "check": "提交答案",
-                "showExplanation": "显示解释",
-                "showCorrect": "显示正确答案",
-                "explanationHeader": "释义"
-            },
-            "text":
-            {
-                "noChosen": "Choose at least one answer",
-                "incomplete": "Some correct answers are missing"
-            },
-            "buttons":
-            {
-                "showCorrect": true,
-                "showExplanation": true
-            }
-        },
-
-        "bibtex-indexed-cite":
-        {
+        "bibtex-indexed-cite": {
             "path": "./"
+        },
+        "prism": {
+            "css": [
+                "prismjs/themes/prism-solarizedlight.css"
+            ]
+        },
+        "page-footer-ex": {
+            "copyright": "By [yangzh](http://yangzh.cn)，使用[知识共享 署名-相同方式共享 4.0协议](https://creativecommons.org/licenses/by-sa/4.0/)发布",
+            "markdown": true,
+            "update_label": "此页面修订于：",
+            "update_format": "YYYY-MM-DD HH:mm:ss"
         }
     }
 }
