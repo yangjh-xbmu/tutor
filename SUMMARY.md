@@ -11,6 +11,6 @@
 
 ----
 
-* [EndNote](endnote.md)
+* [学生知识栈](knowledgeStack.md)
 * [CiteSpace](sitespace.md)
 * [参考文献](References.md)
